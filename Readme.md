@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть»
 
 * Студент: [Кирилл Савинов](https://up.htmlacademy.ru/react/10/user/425671).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
